@@ -1,0 +1,26 @@
+:host {
+    display: block;
+    width: 100%;
+    min-width: 400px;
+
+    .close {
+        float: right;
+    }
+
+    .save {
+        background-color: blue !important;
+        line-height: 36px !important;
+        font-weight: 500 !important;
+        font-size: 14px !important;
+        color: white;
+    }
+
+    .form-wrapper {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .ml-auto {
+        margin-left: auto;
+    }
+}
