@@ -1,5 +1,7 @@
 # RelatedDigital
 
+---Merhaba projede delete ve patch apilerine başarılı bir şekilde istek attım ancak apiler todos ve users listelerini iletmediği için silme ve güncelleme işlemlerini listeden manuel olarak gerçekleştirdim. onun dışında diğer isteklerin tamamını yerine getirdim. Teşekkürler.---
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.9.
 
 ## Development server
